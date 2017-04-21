@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/kevenson/RobotTracking/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 ## Here's my link: 
-https://github.com/kevenson/RobotTracking/master/test.md
+[Test](/test.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
