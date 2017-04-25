@@ -2,9 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/kevenson/RobotTracking/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+Here's a quick introductory video: [![Intro do GH-Pages video](https://img.youtube.com/vi/2MsN8gpT6jY/0.jpg)](https://www.youtube.com/watch?v=2MsN8gpT6jY)
+
 Whenever I commit to this repository, whether on my local machine or by editing files directly on GitHub, GitHub Pages will automatically run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in the associated Markdown files.
 
-[![ScreenShot](https://www.youtube.com/watch?v=2MsN8gpT6jY)]
 
 ### Find more info about [GitHub Pages here](https://pages.github.com/)
 
