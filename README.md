@@ -1,4 +1,4 @@
-## Crash course on creating project websites with GitHub Pages
+## Intro to GitHub Pages
 
 Creating websites for your projects is easy with GitHub Pages. This site is an example - a simple GitHub pages website, hosted through github.io with basic Markdown formatting, and using a simple Jekyll theme (Caymen) provided by GitHub. The video below offers a quick introduction to this service.
 
