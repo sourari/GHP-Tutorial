@@ -15,8 +15,13 @@ To create a GitHub pages site for a particular project, you:
 
 Whenever I commit to this repository, whether on my local machine or by editing files directly on GitHub, GitHub Pages will automatically run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in the associated Markdown files.
 
-### Find more info about [GitHub Pages here](https://pages.github.com/)
+## This page, README.md, is the index for this site. 
+But it doesn't need to be the only page. You can create new pages for your site in GitHub or locally with git, and then add them to your index to build a more complete website. (Note that I could also have used html for this site, if I had named this page **index.html**.)
 
+For example, here's a link to another page in this repo, which includes additional resources for learning Markdown: 
+[Markdown](/markdown.md)
+
+### Find more info about [GitHub Pages here](https://pages.github.com/)
 
 ## Markdown Help
 
@@ -39,13 +44,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-## This page, README.md, is the index for this site. 
-But it doesn't need to be the only page. You can create new pages for your site in GitHub or locally with git, and then add them to your index to build a more complete website. (Note that I could also have used html for this site, if I had named this page **index.html**.)
-
-For example, here's a link to another page in this repo, which includes additional resources for learning Markdown: 
-[Markdown](/markdown.md)
-
 
 ### Jekyll Themes
 
