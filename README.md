@@ -40,8 +40,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-## This page, README.md is the index for this site. 
-But it doesn't need to be the only page. You can create new pages for your site in GitHub or locally with git, and then add them to your index to build a more complete website. 
+## This page, README.md, is the index for this site. 
+But it doesn't need to be the only page. You can create new pages for your site in GitHub or locally with git, and then add them to your index to build a more complete website. (Note that I could also have used html for this site, if I had named this page **index.html**.)
 
 For example, here's a link to another page in this repo, which includes additional resources for learning Markdown: 
 [Markdown](/markdown.md)
