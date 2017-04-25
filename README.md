@@ -4,8 +4,6 @@ This is a simple GitHub pages website. This site is hosted through github.io and
 
 [![Intro do GH-Pages video](https://img.youtube.com/vi/2MsN8gpT6jY/0.jpg)](https://www.youtube.com/watch?v=2MsN8gpT6jY)
 
-# test
-
 ### Creating a project wesite with GitHub Pages
 To create a GitHub pages site for a particular project, you:
 1. login to your GitHub account and create a new repository, or go to an existing one.
