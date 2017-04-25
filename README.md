@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/kevenson/RobotTracking/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Here's a quick introductory video: [![Intro do GH-Pages video](https://img.youtube.com/vi/2MsN8gpT6jY/0.jpg)](https://www.youtube.com/watch?v=2MsN8gpT6jY)
+[![Intro do GH-Pages video](https://img.youtube.com/vi/2MsN8gpT6jY/0.jpg)](https://www.youtube.com/watch?v=2MsN8gpT6jY)
 
 Whenever I commit to this repository, whether on my local machine or by editing files directly on GitHub, GitHub Pages will automatically run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in the associated Markdown files.
 
@@ -32,14 +32,16 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-## Here's a link to another page in this repo (saved in the same directory): 
-[Test](/test.md)
+## This page, README.md is the index for this site. 
+But it doesn't need to be the only page. You can create new pages for your site in GitHub or locally with git, and then add them to your index to build a more complete website. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For example, here's a link to another page in this repo, which includes additional resources for learning Markdown: 
+[Markdown](/markdown.md)
+
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kevenson/RobotTracking/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kevenson/GHP-Testing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
