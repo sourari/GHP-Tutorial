@@ -21,6 +21,8 @@ But it doesn't need to be the only page. You can create new pages for your site 
 For example, here's a link to another page in this repo, which includes additional resources for learning Markdown: 
 [/markdown.md](/markdown.md)
 
+Here's another link to a page in this repo, which includes more information on incorporating MathJax into a GH site: [/mathjax.md](/mathjax.md)
+
 ### Find more info about [GitHub Pages here](https://pages.github.com/)
 
 ### Jekyll Themes
