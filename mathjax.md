@@ -1,4 +1,5 @@
 {% include mathjax.html %}
+# Enabling MathJax
 
 This site template has been pre-enabled with MathJax, so if you use this as the base of your project (removing the links to or re-writing the existing pages), you shouldn't need to do anything special to enable MathJax. Just follow the instructions below.
 
@@ -9,6 +10,8 @@ This tells the browser to include the script I've put in `_includes/mathjax.html
 ``` {% include mathjax.html %} ```
 
 Once you do this, it's very simple to use MathJax with GitHub pages with markdown.
+
+# Using MathJax with Markdown
 
 Kramdown, the markdown translater this GitHub Pages site is setup to use, has special support for $$ to delimit both inline and block equations.
 
@@ -31,7 +34,8 @@ You can also use different typesets or [math alphabets](http://milde.users.sourc
 
 $$ \mathbf{X}_{n,p} = \mathbf{A}_{n,k} \mathbf{B}_{k,p} $$
 
-Additional Resources: 
+## Additional Resources
+
 * [MathJax](http://docs.mathjax.org/en/latest/)
 * [Setting up MathJax on GitHub Pages by Gianluca Casati](http://g14n.info/2014/09/math-on-github-pages/)
 
