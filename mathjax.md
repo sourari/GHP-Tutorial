@@ -4,13 +4,16 @@
 Kramdown, the markdown translater this GitHub Pages site is setup to use, has special support for $$ to delimit both inline and block equations.
 
 For example, `$$ \frac{1}{n^{2}} $$` is rendered as a block equation here:
+
 $$ \frac{1}{n^{2}} $$
 
 
 It's the same process for more complex formulae, such as 
+
 ```$$ J(\theta) = \frac{1}{2m}(\sum_{i=1}^m(h_\theta (x^{(i)}) - y^{(i)})^2 + \lambda\sum_{j=1}^n\theta^2_j) $$```
 
 Rendered as:
+
 $$ J(\theta) = \frac{1}{2m}(\sum_{i=1}^m(h_\theta (x^{(i)}) - y^{(i)})^2 + \lambda\sum_{j=1}^n\theta^2_j) $$
 
 You use the same basic syntax to render `$$a^2 + b^2 = c^2$$` inline: $$a^2 + b^2 = c^2$$
