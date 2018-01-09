@@ -1,3 +1,10 @@
+---
+layout: post
+mathjax: true
+title:  "Adding MathJax to a GitHub Pages Jekyll Blog"
+---
+
+
 # Markdown resources for GH-Pages
 
 [GitHub Mastering Markdown Guide](https://guides.github.com/features/mastering-markdown/).
