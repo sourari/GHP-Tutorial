@@ -30,7 +30,7 @@ $$ J(\theta) = \frac{1}{2m}(\sum_{i=1}^m(h_\theta (x^{(i)}) - y^{(i)})^2 + \lamb
 
 You use the same basic syntax to render `$$a^2 + b^2 = c^2$$` inline: $$a^2 + b^2 = c^2$$
 
-You can also use different typesets or [math alphabets](http://milde.users.sourceforge.net/LUCR/Math/math-font-selection.xhtml), such as \mathbf
+You can also use different typesets or [math alphabets](http://milde.users.sourceforge.net/LUCR/Math/math-font-selection.xhtml), such as \mathbf:
 
 $$ \mathbf{X}_{n,p} = \mathbf{A}_{n,k} \mathbf{B}_{k,p} $$
 
