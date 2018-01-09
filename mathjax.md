@@ -1,4 +1,4 @@
-mathjax: true
+{% include mathjax.html %}
 
 \\[ \frac{1}{n^{2}} \\]
 
