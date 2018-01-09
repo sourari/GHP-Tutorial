@@ -14,4 +14,5 @@ To display inline math use $$( ... $$) like this $$( sin(x^2) $$)
 Kramdown (used on GitHub-pages) has special support for $$ to delimit both inline and block equations.
 
 If you want to use subscripts don't forget the underscores (e.g. $${X}_{n,p}$$):
+
 $$ \mathbf{X}_{n,p} = \mathbf{A}_{n,k} \mathbf{B}_{k,p} $$
