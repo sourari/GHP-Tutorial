@@ -1,5 +1,10 @@
 {% include mathjax.html %}
-###### Borrowing from [Gaston Sanchez](http://www.gastonsanchez.com/visually-enforced/opinion/2014/02/16/Mathjax-with-jekyll/)
+
+This site template has been pre-enabled with MathJax, so if you use this as the base of your project (removing the links to or deleting the existing pages, you shouldn't need to do anything special to enable MathJax. Just follow the instructions below.
+
+The most important thing to remember for using MathJax in GitHub Pages is to add a [special include](https://jekyllrb.com/docs/includes/) `{% include mathjax.html %}` to the top of each page in which you will be using it. 
+
+This tells the browser to include the script I've put in `_includes/mathjax.html` in the home directory, which enables MathJax. Once you do this, it's very simple to use MathJax with GitHub pages with markdown.
 
 Kramdown, the markdown translater this GitHub Pages site is setup to use, has special support for $$ to delimit both inline and block equations.
 
@@ -23,5 +28,6 @@ You can also use different typesets or [math alphabets](http://milde.users.sourc
 $$ \mathbf{X}_{n,p} = \mathbf{A}_{n,k} \mathbf{B}_{k,p} $$
 
 Additional Resources: 
-
+* [MathJax](http://docs.mathjax.org/en/latest/)
+* [Setting up MathJax on GitHub Pages by Gianluca Casati](http://g14n.info/2014/09/math-on-github-pages/)
 
