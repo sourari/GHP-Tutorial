@@ -1,6 +1,8 @@
 {% include mathjax.html %}
 ###### Borrowing from [Gaston Sanchez](http://www.gastonsanchez.com/visually-enforced/opinion/2014/02/16/Mathjax-with-jekyll/)
-*Kramdown (used on GitHub-pages) has special support for $$ to delimit both inline and block equations.*
+
+Kramdown, the markdown translater this GitHub Pages site is setup to use, has special support for $$ to delimit both inline and block equations.
+
 '''
 For example, $$ \frac{1}{n^{2}} $$ is rendered as a block equation here:
 $$ \frac{1}{n^{2}} $$
