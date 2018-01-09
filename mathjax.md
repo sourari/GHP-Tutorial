@@ -5,6 +5,7 @@ This site template has been pre-enabled with MathJax, so if you use this as the 
 The most important thing to remember for using MathJax in GitHub Pages is to add a [special include](https://jekyllrb.com/docs/includes/) to the top of each page in which you will be using it. In this case, that means adding `include mathjax.html` surrounded by `{%` `%}`. 
 
 This tells the browser to include the script I've put in `_includes/mathjax.html` in the home directory, which enables MathJax:
+
 ``` {% include mathjax.html %} ```
 
 Once you do this, it's very simple to use MathJax with GitHub pages with markdown.
