@@ -20,14 +20,18 @@ Whenever I commit to this repository, whether on my local machine or by editing 
 #### This page, README.md, is the index for this site.
 But it doesn't need to be the only page. You can create new pages for your site in GitHub or locally with git, and then add them to your index to build a more complete website. (Note that I could also have used html for this site, if I had named this page **index.html**.)
 
-For example, here's a link to another page in this repo, which includes additional resources for learning Markdown:
+For example, [here's a link to another page in this repo](/markdown.md), which includes additional resources for learning Markdown:
 [/markdown.md](/markdown.md)
 
 Here's another link to a page in this repo, which includes more information on incorporating mathematical notations using MathJax into a GH site: [/mathjax.md](/mathjax.md)
 
-### Find more info about [GitHub Pages here](https://pages.github.com/)
+## Additional Documentation
 
-### Jekyll Themes
+#### Find more info about [GitHub Pages here](https://pages.github.com/)
+
+#### For more information about version control with git, [see this quick introduction](/git.md)
+
+#### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
