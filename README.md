@@ -2,7 +2,7 @@
 
 Creating websites for your projects is easy with GitHub Pages. This site is an example - a simple GitHub Pages website, hosted through github.io with basic Markdown formatting, and using a simple Jekyll theme (Caymen) also provided by GitHub. The video below offers a quick introduction to this service.
 
-[![Intro do GH-Pages video](https://img.youtube.com/vi/2MsN8gpT6jY/0.jpg)](https://www.youtube.com/watch?v=2MsN8gpT6jY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Creating a project wesite with GitHub Pages
 To create a GitHub pages site for a particular project, you:
@@ -17,10 +17,10 @@ Whenever I commit to this repository, whether on my local machine or by editing 
 
 ## Structuring your site
 
-#### This page, README.md, is the index for this site. 
+#### This page, README.md, is the index for this site.
 But it doesn't need to be the only page. You can create new pages for your site in GitHub or locally with git, and then add them to your index to build a more complete website. (Note that I could also have used html for this site, if I had named this page **index.html**.)
 
-For example, here's a link to another page in this repo, which includes additional resources for learning Markdown: 
+For example, here's a link to another page in this repo, which includes additional resources for learning Markdown:
 [/markdown.md](/markdown.md)
 
 Here's another link to a page in this repo, which includes more information on incorporating mathematical notations using MathJax into a GH site: [/mathjax.md](/mathjax.md)
