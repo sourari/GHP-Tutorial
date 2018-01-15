@@ -20,10 +20,9 @@ Whenever I commit to this repository, whether on my local machine or by editing 
 #### This page, README.md, is the index for this site.
 But it doesn't need to be the only page. You can create new pages for your site in GitHub or locally with git, and then add them to your index to build a more complete website. (Note that I could also have used html for this site, if I had named this page **index.html**.)
 
-For example, [here's a link to another page in this repo](/markdown.md), which includes additional resources for learning Markdown:
-[/markdown.md](/markdown.md)
+For example, [here's a link to another page in this repo](/markdown.md), which includes additional resources for learning Markdown.
 
-Here's another link to a page in this repo, which includes more information on incorporating mathematical notations using MathJax into a GH site: [/mathjax.md](/mathjax.md)
+[Here's another link to a page in this repo](/mathjax.md), which includes more information on incorporating mathematical notations using MathJax into a GH site.
 
 ## Additional Documentation
 
