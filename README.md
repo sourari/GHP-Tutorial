@@ -15,6 +15,8 @@ To create a GitHub pages site for a particular project, you:
 
 Whenever I commit to this repository, whether on my local machine or by editing files directly on GitHub, GitHub Pages will automatically run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in the associated Markdown files.
 
+-----------
+
 ## Structuring your site
 
 #### This page, README.md, is the index for this site.
@@ -23,6 +25,10 @@ But it doesn't need to be the only page. You can create new pages for your site 
 For example, [here's a link to another page in this repo](/markdown.md), which includes additional resources for learning Markdown.
 
 [Here's another link to a page in this repo](/mathjax.md), which includes more information on incorporating mathematical notations using MathJax into a GH site.
+
+To learn more about structuring your site with custom templates, [see this great guide by Jonathan McGlone](http://jmcglone.com/guides/github-pages/)
+
+------------
 
 ## Additional Documentation
 
