@@ -1,6 +1,6 @@
 # Intro to Git
 
-![git logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png){:height="50%" width="50%"}
+![git logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png){:height="25%" width="25%"}
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Git):
  >*Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source code management in software development, but it can be used to keep track of changes in any set of files.*
