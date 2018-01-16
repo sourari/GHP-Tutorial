@@ -27,7 +27,7 @@ For example, [here's a link to another page in this repo](/markdown.md), which i
 [Here's another link to a page in this repo](/mathjax.md), which includes more information on incorporating mathematical notations using MathJax into a GH site.
 
 To learn more about structuring your site with custom templates, [see this great guide by Jonathan McGlone](http://jmcglone.com/guides/github-pages/)
-
+https://github.com/sourari/GHP-Tutorial.git
 ------------
 
 ## Additional Documentation
